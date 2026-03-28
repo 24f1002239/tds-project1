@@ -1,0 +1,6 @@
+{
+  "prompt": "Close-up editorial photograph in a high-end tailor's atelier. A bespoke suit jacket hangs on a tailor's dummy, covered in an extraordinary number of hand-stitched custom seams, elaborate darts, and precise tucks tracking every individual contour of one specific body. The craftsmanship is obsessive and overly complex. On a second dummy beside it, the same style of jacket clearly cannot fit — the shape is too specific, the custom work pulling and puckering against a body only slightly different. Warm atelier window light. Editorial fashion photography. No diagrams, no graphs, no text, no labels, no mathematical notation, no equations, no floating annotations, no non-physical elements.",
+  "model": "Banana (Gemini Imagen)",
+  "concept": "overfitting",
+  "metaphor": "A bespoke suit tailored so obsessively to one specific body's exact contours that it becomes completely unwearable by anyone else. The extreme precision directly causes a failure to generalize."
+}
