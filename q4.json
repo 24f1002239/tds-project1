@@ -1,0 +1,7 @@
+{
+  "prompt": "Cinematic editorial illustration. A massive, glowing bridge made of fiber optic light spanning across the left half of the frame, crowded with moving figures bathed in warm golden light. The right half of the frame is a vast, dark, silent chasm where millions of faint, shadowed figures stand looking up at the illuminated bridge they cannot reach. The divide between the light and the dark is sharp and brutal. Mood: profound inequality, invisible barriers, isolation. Color palette: vibrant glowing amber and neon blue on the left, suffocating deep charcoal and desaturated navy on the right. No text, no labels, no legends, no numbers, no chart elements visible anywhere.",
+  "model": "Banana (Gemini Imagen)",
+  "dataset_name": "ITU ICT Statistics - Global Internet Access",
+  "dataset_url": "https://www.itu.int/en/ITU-D/Statistics/Pages/stat/default.aspx",
+  "insight": "In 2023, while the connected world races forward, nearly 2.6 billion people remain completely stranded without internet access, locked out of the modern digital economy."
+}
