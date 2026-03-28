@@ -1,0 +1,6 @@
+{
+  "prompt": "Cinematic, photorealistic documentary-style portrait of a master woodworker in a dusty workshop. The craftsman is standing at a workbench, but his hands have been entirely replaced by intricate, perfectly calibrated brass measuring calipers and micrometers. He is staring down at a piece of uncut wood, completely unable to grasp his tools or carve the wood because his hands are made entirely of measuring devices. The atmosphere is uncanny and tragically absurd. Warm, dusty workshop lighting, hyper-detailed. No text, no numbers, no labels, no charts, no mathematical notation.",
+  "model": "Banana (Gemini Imagen)",
+  "paradox": "Goodhart's Law",
+  "visual_logic": "A craftsman whose hands are replaced by precision measuring tools. By fully optimizing his physical form for the ability to measure, he has completely destroyed his ability to actually do the work the measure was meant to track."
+}
