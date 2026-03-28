@@ -1,0 +1,8 @@
+{
+  "prompt": "Mughal miniature painting, 17th century style, depicting a lavish royal court scene. The Emperor sits on an elevated, intricately patterned throne. The Emperor's gaze and posture are intensely locked onto a single messenger kneeling before him presenting a scroll. Dozens of other courtiers, musicians, and attendants surround them in the flattened background and foreground, but the Emperor completely ignores them. The composition uses a high horizon line, no single-point perspective, and flat architectural planes. Rendered with jewel-toned colors: lapis lazuli blue, vermillion, and gold leaf detailing. Fine, precise brushwork with figures shown in strict profile. No text, no diagrams, no modern elements, no photographic shading.",
+  "model": "Banana (Gemini Imagen)",
+  "concept": "attention mechanism",
+  "tradition_name": "Mughal miniature painting",
+  "tradition_period": "16th–18th century",
+  "tradition_approach": "Targeted the flattened perspective, high horizon line, strict profile faces, jewel-toned palette (lapis, gold, vermillion), and hierarchical scaling to physically manifest the Emperor's selective focus (attention) on one input among a crowded scene."
+}
